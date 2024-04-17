@@ -9,7 +9,7 @@
 
 using namespace std;
  
-string dataset_str = "../TestData/dataset/875713/";// Data set
+string dataset_str = "../TestData/dataset/1005/";// Data set
 
 void WeightGraphOfCenterIDCenterID(ifstream& ifs_CenterCenter, ofstream& ofs_CenterIDCenterIDWeight, ofstream& ofs_CenterIDCenter, ofstream& ofs_deg, ofstream& ofs_stat, ofstream & ofs_G_rev) {
 	set<string> set_value;//v

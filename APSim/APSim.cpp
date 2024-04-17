@@ -16,10 +16,10 @@ using namespace std;
 
 string datatest_str = "../TestData/";
 
-string path_predata = datatest_str + "dataset/875713/";// Data set
-string path_result_root = datatest_str + "result/APSim/875713/";// Output result
+string path_predata = datatest_str + "dataset/1005/";// Data set
+string path_result_root = datatest_str + "result/APSim/1005/";// Output result
 
-string path_query = datatest_str + "query/875713/query100.txt";//query file
+string path_query = datatest_str + "query/1005/query.txt";//query file
 
 
 
